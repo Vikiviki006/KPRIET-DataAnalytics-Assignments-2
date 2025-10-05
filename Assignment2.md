@@ -19,13 +19,13 @@
    - Screenshot: `Paste screenshot link or attach file here`  
 
 3. **Dataproc: Qwik Start - Console**  
-   - Badge URL: `https://paste-your-dataproc-badge-url-here.com`  
+   - Screenshot: `Paste screenshot link or attach file here` 
 
 4. **Dataplex: Qwik Start - Console**  
-   - Badge URL: `https://paste-your-dataplex-badge-url-here.com`  
+   - Screenshot: `Paste screenshot link or attach file here` 
 
 5. **Datastore: Qwik Start**  
-   - Badge URL: `https://paste-your-datastore-badge-url-here.com`  
+   - Screenshot: `Paste screenshot link or attach file here` 
 
 6. **Derive Insights from BigQuery Data**  
    - Badge URL: `https://paste-your-bigquery-badge-url-here.com`  
